@@ -1,14 +1,14 @@
 # Validador de CPF desenvolvido em Python
 
 ## Descrição do Projeto (/◕ヮ◕)/
-### Desenvolvido com o intuito de ser utilizado em Projetos reais por qualquer pessoa (^-^)/
+### 🎯Desenvolvido com o intuito de ser utilizado em Projetos reais por qualquer pessoa (^-^)/
 
 ### Sobre o código (◕‿◕)
 - Possui apenas 74 linhas.
 - Organizado em Classes e Métodos
 - Faz reuso dos métodos
 - Importado somente os módulos `sys` e `re`
-- Possui um método especial `manipulador()` responsável por executar em ordem os demais métodos
+- Possui um método especial `manipulador()` responsável por orquestrar todo o funcionamento
 - Funciona com CPFs que possuem traços e pontos
 - Valida se possui os 11 digitos do CPF
 - Aponta para o usuário qualquer caracter especial diferente de - ou . utilizado
