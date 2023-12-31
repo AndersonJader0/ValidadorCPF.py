@@ -1,5 +1,4 @@
-import sys
-import re
+import sys, re
 
 class ValidadorCPF:
 
@@ -9,9 +8,8 @@ class ValidadorCPF:
         self.listaCPF: list = listaCPF
         self.calculo: int = 0
         self.indiceCPF: int = 9
-        if CPF is None:
+        if CPF is None: 
             self.solicitar_CPF()
-    pass
 
     def solicitar_CPF(self):
         self.CPF: str = input('Digite o CPF aqui: ')
@@ -39,14 +37,14 @@ class ValidadorCPF:
             else:
                 pass
         else:
-            self.CPF: str = re.sub(u'[0123456789]', '', self.CPF)
+            self.CPF: str = re.sub('[0123456789]', '', self.CPF)
             print('Caracteres não compativeis: {}'.format(self.CPF))
             sys.exit(0)
 
     def calcular_verificador(self):
         for i in range(self.indiceCPF):
             self.calculo += self.multiplicador * int(self.listaCPF[i])
-            self.multiplicador -= 1    
+            self.multiplicador -= 1
 
     def calcular_resto(self):
         self.calculo %= 11
@@ -57,7 +55,7 @@ class ValidadorCPF:
 
     def validar_verificador(self):
         if self.calculo == int(self.listaCPF[self.indiceCPF]):
-            #CPF válido
+            #Verificador Válido
             pass
         else:
             print('CPF inválido.')
