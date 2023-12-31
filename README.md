@@ -11,7 +11,7 @@
 
 
 ### Sobre o código
-- Possui apenas 74 linhas.
+- Possui apenas 72 linhas.
 - Organizado em Classes e Métodos
 - Faz reuso dos métodos
 - Importado somente os módulos `sys` e `re`
