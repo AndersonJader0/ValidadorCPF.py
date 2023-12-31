@@ -4,7 +4,7 @@
 ### Desenvolvido com o intuito de ser utilizado em Projetos reais por qualquer pessoa (^-^)/
 
 ### Para que serve? (ಠ_ಠ)
-- Destina-se a validar a autenticidade do CPF por meio de calculos aritméticos
+- Destina-se a validar a autenticidade do CPF por meio de um algoritmo utilizando calculos aritméticos
 
 ### Sobre o código
 - Possui apenas 74 linhas.
