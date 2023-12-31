@@ -32,3 +32,5 @@
 - `5 - Validação do resultado obtido dos calculos com o *segundo* dígito verificador do CPF`
 
 ##### O digito 1 e Digito 2 correspondem ao Verificador 1 e Verificador 2
+
+### Projeto aberto para quaisquer melhorias.
