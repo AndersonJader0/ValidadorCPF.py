@@ -30,7 +30,6 @@ class ValidadorCPF:
 
     def verificar_CPF(self):
         if self.CPF.isdecimal():
-            #OK
             if len(self.listaCPF) > 11 or len(self.listaCPF) < 11:
                 print('CPF inválido.')
                 sys.exit(0)
@@ -55,7 +54,6 @@ class ValidadorCPF:
 
     def validar_verificador(self):
         if self.calculo == int(self.listaCPF[self.indiceCPF]):
-            #Verificador Válido
             pass
         else:
             print('CPF inválido.')
