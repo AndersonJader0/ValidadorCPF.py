@@ -1,12 +1,9 @@
-# Validador de CPF desenvolvido em Python
-
 <p align="center">
   <img src="https://github.com/AndersonJader0/ValidadorCPF.py/assets/105549520/f6e9b473-6595-4976-bcdd-60b400945e22" />
 </p>
 
-
-
 ## Descrição do Projeto (/◕ヮ◕)/
+
 ### Desenvolvido com o intuito de ser utilizado em Projetos reais por qualquer pessoa (^-^)/
 
 ### Para que serve? (ಠ_ಠ)
