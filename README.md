@@ -6,7 +6,7 @@
 ### Para que serve? (ಠ_ಠ)
 - Destina-se a validar a autenticidade do CPF por meio dos calculos aritméticos
 
-### Sobre o código (◕‿◕)
+### Sobre o código
 - Possui apenas 74 linhas.
 - Organizado em Classes e Métodos
 - Faz reuso dos métodos
