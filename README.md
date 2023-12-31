@@ -19,6 +19,7 @@
 - Funciona com CPFs que possuem traços e pontos
 - Valida se possui os 11 digitos do CPF e se são números
 - Aponta para o usuário qualquer caracter especial diferente de - ou . utilizado
+- Nome de variáveis e métodos em português
 
 ### Fluxograma do Validador
 ![image](https://github.com/AndersonJader0/ValidadorCPF.py/assets/105549520/1bc0a566-b4f6-4c8c-84be-bfff7a9a3fe5)
