@@ -15,3 +15,9 @@
 - `3 - Calculo do resto da soma`
 - `4 - Se o resto da soma for igual a 0 ou 1 então o digito verificador é igual a 0 se for diferente disso será o resultado da subtração por 11`
 - `5 - Validação do resultado obtido dos calculos com o *segundo* dígito verificador do CPF`
+
+### Criado com o intuito de ser utilizado em Projetos reais por qualquer pessoa (^-^)/
+
+### Fluxograma do Validador
+![image](https://github.com/AndersonJader0/ValidadorCPF.py/assets/105549520/1bc0a566-b4f6-4c8c-84be-bfff7a9a3fe5)
+
