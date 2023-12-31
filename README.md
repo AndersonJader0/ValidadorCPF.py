@@ -3,6 +3,9 @@
 ## Descrição do Projeto (/◕ヮ◕)/
 ### Desenvolvido com o intuito de ser utilizado em Projetos reais por qualquer pessoa (^-^)/
 
+### Para que serve? (ಠ_ಠ)
+- Destina-se a validar a autenticidade do CPF por meio dos calculos aritméticos
+
 ### Sobre o código (◕‿◕)
 - Possui apenas 74 linhas.
 - Organizado em Classes e Métodos
