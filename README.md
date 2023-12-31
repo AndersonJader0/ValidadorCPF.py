@@ -1,7 +1,7 @@
 # Validador de CPF desenvolvido em Python
 
 ## Descrição do Projeto (/◕ヮ◕)/
-### 🎯Desenvolvido com o intuito de ser utilizado em Projetos reais por qualquer pessoa (^-^)/
+### Desenvolvido com o intuito de ser utilizado em Projetos reais por qualquer pessoa (^-^)/
 
 ### Sobre o código (◕‿◕)
 - Possui apenas 74 linhas.
