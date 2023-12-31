@@ -23,7 +23,7 @@
 
 ### Desenvolvido com o intuito de ser utilizado em Projetos reais por qualquer pessoa (^-^)/
 
-### Sobre o código
+### Sobre o código (◕‿◕)
 - Possui apenas 74 linhas.
 - Organizado em Classes e Métodos
 - Faz reuso dos métodos
@@ -31,4 +31,4 @@
 - Possui um método especial `manipulador()` responsável por executar em ordem os demais métodos
 - Funciona com CPFs que possuem traços e pontos
 - Valida se possui os 11 digitos do CPF
-- Aponta para o usuário qualquer caracter especial diferente de - ou .
+- Aponta para o usuário qualquer caracter especial diferente de - ou . utilizado
