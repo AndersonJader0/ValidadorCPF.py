@@ -10,7 +10,7 @@
 - Importado somente os módulos `sys` e `re`
 - Possui um método especial `manipulador()` responsável por orquestrar todo o funcionamento
 - Funciona com CPFs que possuem traços e pontos
-- Valida se possui os 11 digitos do CPF
+- Valida se possui os 11 digitos do CPF e se são números
 - Aponta para o usuário qualquer caracter especial diferente de - ou . utilizado
 
 ### Fluxograma do Validador
